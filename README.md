@@ -11,4 +11,4 @@
     - https://github.com/bangoc123/protonx-agent-01-class/tree/master/Day-3/practice-in-class/mcp-server-demo
     - [how to use OpenAI](https://github.com/allenbijo/simple-mcp-client/blob/master/main.py#L151)
 
-## 2. TBD
+## 2. Get weather information
