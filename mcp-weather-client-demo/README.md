@@ -1,0 +1,1 @@
+uv run client.py 'path/mcp-weather-demo/server.py'
