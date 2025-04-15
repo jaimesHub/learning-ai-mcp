@@ -12,3 +12,14 @@
     - [how to use OpenAI](https://github.com/allenbijo/simple-mcp-client/blob/master/main.py#L151)
 
 ## 2. Get weather information
+
+## 3. Refs
+- https://modelcontextprotocol.io/introduction
+- https://pieces.app/blog/mcp
+- https://www.philschmid.de/mcp-introduction#how-does-mcp-work
+- https://www.philschmid.de/mcp-example-llama#what-is-the-model-context-protocol-mcp
+- A2A vs MCP
+    - https://viblo.asia/p/so-sanh-mcp-va-a2a-hai-giao-thuc-quan-trong-cho-tuong-lai-ai-zXRJ8PjdJGq
+    - https://medium.com/google-cloud/building-ai-agents-with-googles-agent-development-kit-adk-as-mcp-client-a-deep-dive-full-54d683713afe
+- https://www.youtube.com/watch?v=6-cDvbpqT8c&t=201s
+- https://github.com/tadata-org/fastapi_mcp
